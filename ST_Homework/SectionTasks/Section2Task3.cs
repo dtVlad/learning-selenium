@@ -6,10 +6,10 @@ using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 using System;
 
-namespace Section2Task
+namespace SectionTasks
 {
     [TestClass]
-    public class Task3
+    public class Section2Task3
     {
         [TestFixture]
         public class MyFirstTest

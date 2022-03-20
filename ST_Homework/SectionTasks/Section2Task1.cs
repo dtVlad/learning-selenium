@@ -6,9 +6,9 @@ using System;
 using OpenQA.Selenium.Chrome;
 using SeleniumExtras.WaitHelpers;
 
-namespace Section2Task
+namespace SectionTasks
 {
-    public class UnitTest1
+    public class Section2Task1
     {
         [TestFixture]
         public class MyFirstTest
